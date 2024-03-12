@@ -1,2 +1,3 @@
 # apna
-this is my practice code 
+
+this is my practice code from midhat
